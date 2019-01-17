@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Dainanahan", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pic_4.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "mali@yahoo.com"
@@ -268,7 +268,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/moh_fcis"
 
   [[params.social]]
     icon = "google-scholar"
@@ -278,7 +278,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/MohammedFCIS"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
