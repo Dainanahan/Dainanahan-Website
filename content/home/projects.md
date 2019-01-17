@@ -4,10 +4,12 @@ date: "2016-04-20T00:00:00+02:00"
 filter:
 - name: All
   tag: '*'
-- name: Deep Learning
-  tag: Deep Learning
-- name: Other
-  tag: Demo
+- name: dbparser
+  tag: dbparser
+- name: dbvis
+  tag: dbvis
+- name: dpred
+  tag: dpred
 filter_default: 0
 flip_alt_rows: false
 folder: project
