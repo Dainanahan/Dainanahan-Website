@@ -1,10 +1,21 @@
 ---
 description: ""
 draft: false
-title: Simple People
+title: Our Team
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Dr. Ali Ezzat
+A machine learning, data mining and data visualization ninja with exposure to bioinformatics and drug discovery. Favorite programming languages are Python, R, MATLAB and Java. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+https://www.linkedin.com/in/aliezzat1985/
+
+# Eng. Mohammed Ali
+A data science master degree engineer who in love with data, especially health care data with long experience with software engineering. 
+
+https://www.linkedin.com/in/mohammedali85/
+
+# Eng. Marwa Mustafa
+Experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with a Bachelor of computers and information focused in information systems from the faculty of Computer Engineering.
+
+https://www.linkedin.com/in/marwamustafa/
