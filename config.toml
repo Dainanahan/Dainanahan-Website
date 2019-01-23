@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Terrassa"
-author = "Daniel Zaragoza (Danielkvist)"
+title = "Dainanahan"
+author = "Mohammed Ali"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
@@ -13,8 +13,8 @@ theme = "hugo-terrassa-theme"
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
-    favicon = "favicon.ico" # Relative URL
+    description = "We aim to provide practitioners in the field of drug discovery with a group of computational tools that would aid them in their work"
+    favicon = "dainanahan1c_padded_mmN_12.ico" # Relative URL
     logo = "" # Absolute URL
 
 [params.hero]
@@ -27,7 +27,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/your@email.com"
+    action = "https://formspree.io/moh_fcis@yahoo.com"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"
@@ -47,21 +47,21 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "example@gmail.com"
-    phone = "xxx xxx xxx"
+    email = "moh_fcis@yahoo.com"
+    phone = ""
     skype = ""
-    address = "419 Creek St. Revere, MA 02151"
+    address = ""
 
 [params.social] # Social networks
-    twitter = "https://twitter.com/john"
-    facebook = "https://facebook.com/john"
-    github = "https://github.com/john"
+    twitter = ""
+    facebook = ""
+    github = "https://github.com/Dainanahan"
     gitlab = ""
-    codepen = "https://codepen.io/john"
-    instagram = "https://instagram.com/john"
+    codepen = ""
+    instagram = ""
     pinterest = ""
     youtube = ""
-    linkedin = ""
+    linkedin = "https://www.linkedin.com/company/dainanahan/"
     weibo = ""
     mastodon = ""
     tumblr = ""
